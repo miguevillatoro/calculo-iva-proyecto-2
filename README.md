@@ -1,2 +1,3 @@
-# calculo-iva-proyecto-2
+# CÁLCULO IVA 💲
+
 Proyecto 2: Cálculo de Iva de un producto.
